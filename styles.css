@@ -1,0 +1,34 @@
+body {
+    background-image: linear-gradient(to right , yellow green);
+}
+
+#confirmed:hover{
+    color:red;
+}
+
+#active:hover{
+    color:red;
+}
+#deaths:hover{
+    color:red;
+}
+
+#confirmed{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+#active{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+#deaths{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
